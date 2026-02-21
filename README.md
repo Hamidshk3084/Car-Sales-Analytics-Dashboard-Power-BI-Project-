@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard (Power BI)
+# Car Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
 The **Car Sales Dashboard** provides an in-depth analysis of car sales performance from 2010 to 2024.  
